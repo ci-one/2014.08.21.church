@@ -5,7 +5,7 @@
 
 angular.module('churchApp')
     .controller('ContentsCtrl', function ($scope, $routeParams, executeResults,$location) {
-
+sdfsd
 
         $scope.sub = 'true';
         var aa = $location.url().split('/')[1];
